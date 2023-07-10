@@ -127,3 +127,27 @@ header {
     font-size: 25px;
     font-weight: 500;
 }
+
+.plan-contact-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.plan-contact {
+    margin: 0 230px;
+    background-image: url('../images/watch.png'), url('../images/gradient1.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    height: 300px;
+    border-radius: 8px;
+    padding-left: 64px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.plan-contact-title {
+    margin-bottom: 24px;
+}
